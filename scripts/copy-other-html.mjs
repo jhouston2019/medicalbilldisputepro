@@ -36,4 +36,11 @@ if (fs.existsSync(styles)) {
   fs.copyFileSync(styles, path.join(dist, "styles.css"));
 }
 
-console.log("Copied HTML (except Vite entry pages) and styles.css to dist/");
+for (const f of ["robots.txt", "sitemap.xml", "404.html"]) {
+  const src = path.join(root, f);
+  if (fs.existsSync(src)) {
+    fs.copyFileSync(src, path.join(dist, f));
+  }
+}
+
+console.log("Copied HTML (except Vite entry pages), styles.css, robots.txt, sitemap.xml, 404.html to dist/");

@@ -6,8 +6,167 @@
   NODE_VERSION = "20.17.0"
 
 [[redirects]]
+  from = "https://www.medicalbilldisputepro.com/*"
+  to = "https://medicalbilldisputepro.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pricing.html"
+  to = "/pricing"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/privacy.html"
+  to = "/privacy"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/terms.html"
+  to = "/terms"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/disclaimer.html"
+  to = "/disclaimer"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/success.html"
+  to = "/success"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/app.html"
+  to = "/app"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/recover.html"
+  to = "/recover"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cancel.html"
+  to = "/cancel"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/upload.html"
+  to = "/upload"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/dashboard.html"
+  to = "/dashboard"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/login.html"
+  to = "/login"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/signup.html"
+  to = "/signup"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/update-password.html"
+  to = "/update-password"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/examples.html"
+  to = "/examples"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/payment.html"
+  to = "/payment"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/preview.html"
+  to = "/preview"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/result.html"
+  to = "/result"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/thank-you.html"
+  to = "/success"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/admin.html"
+  to = "/admin"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/admin-login.html"
+  to = "/admin-login"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/admin-dashboard.html"
+  to = "/admin-dashboard"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/test-payment-flow.html"
+  to = "/test-payment-flow"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/pricing"
   to = "/pricing.html"
+  status = 200
+
+[[redirects]]
+  from = "/privacy"
+  to = "/privacy.html"
+  status = 200
+
+[[redirects]]
+  from = "/terms"
+  to = "/terms.html"
+  status = 200
+
+[[redirects]]
+  from = "/disclaimer"
+  to = "/disclaimer.html"
   status = 200
 
 [[redirects]]
@@ -46,6 +205,56 @@
   status = 200
 
 [[redirects]]
+  from = "/signup"
+  to = "/signup.html"
+  status = 200
+
+[[redirects]]
+  from = "/update-password"
+  to = "/update-password.html"
+  status = 200
+
+[[redirects]]
+  from = "/examples"
+  to = "/examples.html"
+  status = 200
+
+[[redirects]]
+  from = "/payment"
+  to = "/payment.html"
+  status = 200
+
+[[redirects]]
+  from = "/preview"
+  to = "/preview.html"
+  status = 200
+
+[[redirects]]
+  from = "/result"
+  to = "/result.html"
+  status = 200
+
+[[redirects]]
+  from = "/admin"
+  to = "/admin.html"
+  status = 200
+
+[[redirects]]
+  from = "/admin-login"
+  to = "/admin-login.html"
+  status = 200
+
+[[redirects]]
+  from = "/admin-dashboard"
+  to = "/admin-dashboard.html"
+  status = 200
+
+[[redirects]]
+  from = "/test-payment-flow"
+  to = "/test-payment-flow.html"
+  status = 200
+
+[[redirects]]
   from = "/preview/*"
   to = "/preview.html"
   status = 200
@@ -58,16 +267,6 @@
 [[redirects]]
   from = "/api/create-checkout-session"
   to = "/.netlify/functions/create-checkout-session"
-  status = 200
-
-[[redirects]]
-  from = "/thank-you.html"
-  to = "/success"
-  status = 302
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
   status = 200
 
 [functions]
