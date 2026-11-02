@@ -5,7 +5,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhouston2019/medicalbillingletters.git"
+    "url": "https://github.com/jhouston2019/medicalbilldisputepro.git"
   },
   "scripts": {
     "dev": "vite",
