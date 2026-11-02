@@ -150,6 +150,287 @@
   force = true
 
 [[redirects]]
+  from = "/guides.html"
+  to = "/guides"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/duplicate-charges-medical-bill.html"
+  to = "/duplicate-charges-medical-bill"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/upcoding-medical-billing.html"
+  to = "/upcoding-medical-billing"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/unbundling-medical-billing.html"
+  to = "/unbundling-medical-billing"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/balance-billing.html"
+  to = "/balance-billing"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/surprise-medical-bill.html"
+  to = "/surprise-medical-bill"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/charged-for-services-not-received.html"
+  to = "/charged-for-services-not-received"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/billed-after-insurance-paid.html"
+  to = "/billed-after-insurance-paid"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/incorrect-quantity-or-units-medical-bill.html"
+  to = "/incorrect-quantity-or-units-medical-bill"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/er-bill-too-high.html"
+  to = "/er-bill-too-high"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/out-of-network-bill-at-in-network-hospital.html"
+  to = "/out-of-network-bill-at-in-network-hospital"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/ambulance-bill-dispute.html"
+  to = "/ambulance-bill-dispute"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/air-ambulance-bill-dispute.html"
+  to = "/air-ambulance-bill-dispute"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/lab-bill-dispute.html"
+  to = "/lab-bill-dispute"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/dme-bill-dispute.html"
+  to = "/dme-bill-dispute"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/uninsured-self-pay-medical-bill.html"
+  to = "/uninsured-self-pay-medical-bill"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/anesthesiologist-surprise-bill.html"
+  to = "/anesthesiologist-surprise-bill"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-bill-sent-to-collections.html"
+  to = "/medical-bill-sent-to-collections"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/insurance-denied-claim-medical-bill.html"
+  to = "/insurance-denied-claim-medical-bill"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medicare-medicaid-billing-errors.html"
+  to = "/medicare-medicaid-billing-errors"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/radiology-pathology-bill-dispute.html"
+  to = "/radiology-pathology-bill-dispute"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/how-to-dispute-a-medical-bill.html"
+  to = "/how-to-dispute-a-medical-bill"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/how-to-request-itemized-medical-bill.html"
+  to = "/how-to-request-itemized-medical-bill"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/how-to-read-an-eob.html"
+  to = "/how-to-read-an-eob"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/how-to-write-a-medical-bill-dispute-letter.html"
+  to = "/how-to-write-a-medical-bill-dispute-letter"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-bill-dispute-deadlines.html"
+  to = "/medical-bill-dispute-deadlines"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/how-to-negotiate-a-medical-bill.html"
+  to = "/how-to-negotiate-a-medical-bill"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/hospital-financial-assistance-application.html"
+  to = "/hospital-financial-assistance-application"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/request-medical-records-for-billing-dispute.html"
+  to = "/request-medical-records-for-billing-dispute"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/file-complaint-state-insurance-commissioner.html"
+  to = "/file-complaint-state-insurance-commissioner"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/good-faith-estimate-dispute.html"
+  to = "/good-faith-estimate-dispute"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/what-to-do-before-medical-bill-goes-to-collections.html"
+  to = "/what-to-do-before-medical-bill-goes-to-collections"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/should-i-pay-a-medical-bill-while-disputing.html"
+  to = "/should-i-pay-a-medical-bill-while-disputing"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-bill-dispute-checklist.html"
+  to = "/medical-bill-dispute-checklist"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/sample-letter-duplicate-charge.html"
+  to = "/sample-letter-duplicate-charge"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/sample-letter-balance-billing.html"
+  to = "/sample-letter-balance-billing"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/sample-letter-itemized-bill-request.html"
+  to = "/sample-letter-itemized-bill-request"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/sample-letter-upcoding.html"
+  to = "/sample-letter-upcoding"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/sample-letter-collections-validation.html"
+  to = "/sample-letter-collections-validation"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/sample-letter-financial-assistance-request.html"
+  to = "/sample-letter-financial-assistance-request"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/no-surprises-act-explained.html"
+  to = "/no-surprises-act-explained"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-billing-glossary.html"
+  to = "/medical-billing-glossary"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-billing-advocate-vs-dispute-letter.html"
+  to = "/medical-billing-advocate-vs-dispute-letter"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/eob-vs-medical-bill.html"
+  to = "/eob-vs-medical-bill"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/common-medical-billing-errors.html"
+  to = "/common-medical-billing-errors"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/when-you-need-a-healthcare-attorney.html"
+  to = "/when-you-need-a-healthcare-attorney"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-bill-dispute-georgia.html"
+  to = "/medical-bill-dispute-georgia"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-bill-dispute-texas.html"
+  to = "/medical-bill-dispute-texas"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-bill-dispute-florida.html"
+  to = "/medical-bill-dispute-florida"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-bill-dispute-california.html"
+  to = "/medical-bill-dispute-california"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-bill-dispute-new-york.html"
+  to = "/medical-bill-dispute-new-york"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-bill-dispute-illinois.html"
+  to = "/medical-bill-dispute-illinois"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-bill-dispute-pennsylvania.html"
+  to = "/medical-bill-dispute-pennsylvania"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-bill-dispute-ohio.html"
+  to = "/medical-bill-dispute-ohio"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-bill-dispute-north-carolina.html"
+  to = "/medical-bill-dispute-north-carolina"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/medical-bill-dispute-michigan.html"
+  to = "/medical-bill-dispute-michigan"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/pricing"
   to = "/pricing.html"
   status = 200
@@ -252,6 +533,231 @@
 [[redirects]]
   from = "/test-payment-flow"
   to = "/test-payment-flow.html"
+  status = 200
+
+[[redirects]]
+  from = "/guides"
+  to = "/guides.html"
+  status = 200
+[[redirects]]
+  from = "/duplicate-charges-medical-bill"
+  to = "/duplicate-charges-medical-bill.html"
+  status = 200
+[[redirects]]
+  from = "/upcoding-medical-billing"
+  to = "/upcoding-medical-billing.html"
+  status = 200
+[[redirects]]
+  from = "/unbundling-medical-billing"
+  to = "/unbundling-medical-billing.html"
+  status = 200
+[[redirects]]
+  from = "/balance-billing"
+  to = "/balance-billing.html"
+  status = 200
+[[redirects]]
+  from = "/surprise-medical-bill"
+  to = "/surprise-medical-bill.html"
+  status = 200
+[[redirects]]
+  from = "/charged-for-services-not-received"
+  to = "/charged-for-services-not-received.html"
+  status = 200
+[[redirects]]
+  from = "/billed-after-insurance-paid"
+  to = "/billed-after-insurance-paid.html"
+  status = 200
+[[redirects]]
+  from = "/incorrect-quantity-or-units-medical-bill"
+  to = "/incorrect-quantity-or-units-medical-bill.html"
+  status = 200
+[[redirects]]
+  from = "/er-bill-too-high"
+  to = "/er-bill-too-high.html"
+  status = 200
+[[redirects]]
+  from = "/out-of-network-bill-at-in-network-hospital"
+  to = "/out-of-network-bill-at-in-network-hospital.html"
+  status = 200
+[[redirects]]
+  from = "/ambulance-bill-dispute"
+  to = "/ambulance-bill-dispute.html"
+  status = 200
+[[redirects]]
+  from = "/air-ambulance-bill-dispute"
+  to = "/air-ambulance-bill-dispute.html"
+  status = 200
+[[redirects]]
+  from = "/lab-bill-dispute"
+  to = "/lab-bill-dispute.html"
+  status = 200
+[[redirects]]
+  from = "/dme-bill-dispute"
+  to = "/dme-bill-dispute.html"
+  status = 200
+[[redirects]]
+  from = "/uninsured-self-pay-medical-bill"
+  to = "/uninsured-self-pay-medical-bill.html"
+  status = 200
+[[redirects]]
+  from = "/anesthesiologist-surprise-bill"
+  to = "/anesthesiologist-surprise-bill.html"
+  status = 200
+[[redirects]]
+  from = "/medical-bill-sent-to-collections"
+  to = "/medical-bill-sent-to-collections.html"
+  status = 200
+[[redirects]]
+  from = "/insurance-denied-claim-medical-bill"
+  to = "/insurance-denied-claim-medical-bill.html"
+  status = 200
+[[redirects]]
+  from = "/medicare-medicaid-billing-errors"
+  to = "/medicare-medicaid-billing-errors.html"
+  status = 200
+[[redirects]]
+  from = "/radiology-pathology-bill-dispute"
+  to = "/radiology-pathology-bill-dispute.html"
+  status = 200
+[[redirects]]
+  from = "/how-to-dispute-a-medical-bill"
+  to = "/how-to-dispute-a-medical-bill.html"
+  status = 200
+[[redirects]]
+  from = "/how-to-request-itemized-medical-bill"
+  to = "/how-to-request-itemized-medical-bill.html"
+  status = 200
+[[redirects]]
+  from = "/how-to-read-an-eob"
+  to = "/how-to-read-an-eob.html"
+  status = 200
+[[redirects]]
+  from = "/how-to-write-a-medical-bill-dispute-letter"
+  to = "/how-to-write-a-medical-bill-dispute-letter.html"
+  status = 200
+[[redirects]]
+  from = "/medical-bill-dispute-deadlines"
+  to = "/medical-bill-dispute-deadlines.html"
+  status = 200
+[[redirects]]
+  from = "/how-to-negotiate-a-medical-bill"
+  to = "/how-to-negotiate-a-medical-bill.html"
+  status = 200
+[[redirects]]
+  from = "/hospital-financial-assistance-application"
+  to = "/hospital-financial-assistance-application.html"
+  status = 200
+[[redirects]]
+  from = "/request-medical-records-for-billing-dispute"
+  to = "/request-medical-records-for-billing-dispute.html"
+  status = 200
+[[redirects]]
+  from = "/file-complaint-state-insurance-commissioner"
+  to = "/file-complaint-state-insurance-commissioner.html"
+  status = 200
+[[redirects]]
+  from = "/good-faith-estimate-dispute"
+  to = "/good-faith-estimate-dispute.html"
+  status = 200
+[[redirects]]
+  from = "/what-to-do-before-medical-bill-goes-to-collections"
+  to = "/what-to-do-before-medical-bill-goes-to-collections.html"
+  status = 200
+[[redirects]]
+  from = "/should-i-pay-a-medical-bill-while-disputing"
+  to = "/should-i-pay-a-medical-bill-while-disputing.html"
+  status = 200
+[[redirects]]
+  from = "/medical-bill-dispute-checklist"
+  to = "/medical-bill-dispute-checklist.html"
+  status = 200
+[[redirects]]
+  from = "/sample-letter-duplicate-charge"
+  to = "/sample-letter-duplicate-charge.html"
+  status = 200
+[[redirects]]
+  from = "/sample-letter-balance-billing"
+  to = "/sample-letter-balance-billing.html"
+  status = 200
+[[redirects]]
+  from = "/sample-letter-itemized-bill-request"
+  to = "/sample-letter-itemized-bill-request.html"
+  status = 200
+[[redirects]]
+  from = "/sample-letter-upcoding"
+  to = "/sample-letter-upcoding.html"
+  status = 200
+[[redirects]]
+  from = "/sample-letter-collections-validation"
+  to = "/sample-letter-collections-validation.html"
+  status = 200
+[[redirects]]
+  from = "/sample-letter-financial-assistance-request"
+  to = "/sample-letter-financial-assistance-request.html"
+  status = 200
+[[redirects]]
+  from = "/no-surprises-act-explained"
+  to = "/no-surprises-act-explained.html"
+  status = 200
+[[redirects]]
+  from = "/medical-billing-glossary"
+  to = "/medical-billing-glossary.html"
+  status = 200
+[[redirects]]
+  from = "/medical-billing-advocate-vs-dispute-letter"
+  to = "/medical-billing-advocate-vs-dispute-letter.html"
+  status = 200
+[[redirects]]
+  from = "/eob-vs-medical-bill"
+  to = "/eob-vs-medical-bill.html"
+  status = 200
+[[redirects]]
+  from = "/common-medical-billing-errors"
+  to = "/common-medical-billing-errors.html"
+  status = 200
+[[redirects]]
+  from = "/when-you-need-a-healthcare-attorney"
+  to = "/when-you-need-a-healthcare-attorney.html"
+  status = 200
+[[redirects]]
+  from = "/medical-bill-dispute-georgia"
+  to = "/medical-bill-dispute-georgia.html"
+  status = 200
+[[redirects]]
+  from = "/medical-bill-dispute-texas"
+  to = "/medical-bill-dispute-texas.html"
+  status = 200
+[[redirects]]
+  from = "/medical-bill-dispute-florida"
+  to = "/medical-bill-dispute-florida.html"
+  status = 200
+[[redirects]]
+  from = "/medical-bill-dispute-california"
+  to = "/medical-bill-dispute-california.html"
+  status = 200
+[[redirects]]
+  from = "/medical-bill-dispute-new-york"
+  to = "/medical-bill-dispute-new-york.html"
+  status = 200
+[[redirects]]
+  from = "/medical-bill-dispute-illinois"
+  to = "/medical-bill-dispute-illinois.html"
+  status = 200
+[[redirects]]
+  from = "/medical-bill-dispute-pennsylvania"
+  to = "/medical-bill-dispute-pennsylvania.html"
+  status = 200
+[[redirects]]
+  from = "/medical-bill-dispute-ohio"
+  to = "/medical-bill-dispute-ohio.html"
+  status = 200
+[[redirects]]
+  from = "/medical-bill-dispute-north-carolina"
+  to = "/medical-bill-dispute-north-carolina.html"
+  status = 200
+[[redirects]]
+  from = "/medical-bill-dispute-michigan"
+  to = "/medical-bill-dispute-michigan.html"
   status = 200
 
 [[redirects]]
